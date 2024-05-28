@@ -17,7 +17,7 @@
 
 
 
-[linkedin]: https://linkedin.com/in/Ishmaelogbara
+[linkedin]: https://www.linkedin.com/in/ishmael-ogbara-42a769128/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
