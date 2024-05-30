@@ -2,8 +2,10 @@
 
 <h2>CyberSecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Python</b>
   - [Password Generator Using Python](https://github.com/InsertURL)
+  - Hello World.py
+- <b>Msc Project: IOT Security</b>
   - [Investigating IOT Security](https://www.linkedin.com/in/ishmael-ogbara-42a769128/overlay/education/563723563/multiple-media-viewer/?profileId=ACoAAB9vuSIBzEUnon-TNAxXDGRZ5GDYrqvcEKI&treasuryMediaId=1606824907698) 
 
 <h2>Networking Projects:</h2>
